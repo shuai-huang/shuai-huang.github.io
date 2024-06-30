@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Shuai
-#middle_name:
+middle_name:
 last_name: Huang
 email: shuai.huang@emory.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -49,8 +49,8 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
+search_enabled: false
+socials_in_search: false
 
 # Dimensions
 max_width: 930px
