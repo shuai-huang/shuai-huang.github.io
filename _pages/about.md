@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computational Neuroscience and Artificial Intelligence (CNAI) Laboratory
 
 profile:
   align: right
