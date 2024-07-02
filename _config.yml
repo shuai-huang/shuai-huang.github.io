@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: CNAI Lab # the website title (if blank, full name will be used instead)
-first_name: Shuai
+first_name: 
 middle_name:
-last_name: Huang
+last_name: `C`omputational `N`euroscience and `A`rtificial `I`ntelligence Lab
 email: shuai.huang@emory.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
