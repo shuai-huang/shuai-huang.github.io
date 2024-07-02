@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome to the **Computational Neuroscience and Artificial Intelligence (CNAI)**{: style="color: purple; opacity: 1.00;" } Laboratory!
+Welcome to the `**Computational Neuroscience and Artificial Intelligence (CNAI)**` Laboratory!
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
