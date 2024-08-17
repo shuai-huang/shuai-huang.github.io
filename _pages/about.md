@@ -9,8 +9,7 @@ profile:
   image: shuai_sq.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Assistant Professor</p>
-    <p>Electrical and Computer Engineering</p>
+    <p>Assistant Professor, ECE</p>
     <p>Neuroimaging Center</p>
     <p>Auburn University</p>
 
