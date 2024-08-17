@@ -26,7 +26,7 @@ We develop machine learning and artifical intelligence methods to address exciti
 
 Research interests: machine learning, AI for healthcare, MRI, computational imaging, numerical optimization
 
-**My lab is actively looking for highly motivated students. If you are interested, please feel free to contact me: shuai.huang@auburn.edu**
+**CNAI lab is actively looking for highly motivated students. If you are interested, please feel free to contact me: shuai.huang@auburn.edu**
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
