@@ -9,6 +9,7 @@ profile:
   image: shuai_sq.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p>Shuai Huang</p>
     <p><span style="font-size:0.9em;">Assistant Professor</span></p>
     <p><nobr><span style="font-size:0.9em;">Electrical and Computer Engineering</span></nobr></p>
     <p><span style="font-size:0.9em;">Neuroimaging Center</span></p>
