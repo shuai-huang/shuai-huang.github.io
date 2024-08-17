@@ -18,7 +18,6 @@ profiles:
       <p>303 Broun Hall</p>
       <p>Auburn, AL</p>
       <p>Email: shuai.huang@auburn.edu</p>
-  ## PhD student
   - align: left
     image: shuai_sq.jpg
     content: about_einstein.md
