@@ -6,14 +6,13 @@ subtitle:
 
 profile:
   align: right
-  image: shuai.jpg
+  image: shuai_sq.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Assistant Professor</p>
-    <p>Department of Electrical and Computer Engineering</p>
+    <p>Electrical and Computer Engineering</p>
     <p>Neuroimaging Center</p>
-    <p>Auburn University, Auburn, AL</p>
-    <p>Email: shuai.huang@auburn.edu</p>
+    <p>Auburn University</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
