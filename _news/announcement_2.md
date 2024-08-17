@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-**My lab is actively looking for highly motivated students. If you are interested, please feel free to contact me: shuai.huang@auburn.edu**
+CNAI lab is actively looking for highly motivated students. If you are interested, please feel free to contact me: shuai.huang@auburn.edu
 
 <!--
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
