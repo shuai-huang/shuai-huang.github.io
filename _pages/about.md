@@ -9,10 +9,10 @@ profile:
   image: shuai_sq.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Assistant Professor</p>
-    <p><span style="font-size:0.85em;">Electrical and Computer Engineering</span></p>
-    <p>Neuroimaging Center</p>
-    <p>Auburn University</p>
+    <p><span style="font-size:0.82em;">Assistant Professor</span></p>
+    <p><span style="font-size:0.82em;">Electrical and Computer Engineering</span></p>
+    <p><span style="font-size:0.82em;">Neuroimaging Center</span></p>
+    <p><span style="font-size:0.82em;">Auburn University</span></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to the `Computational Neuroscience and Artificial Intelligence (CNAI)` Lab!
 
-We develop machine learning and artifical intelligence methods to address exciting challenges in Neuroscience. By analyzing neuroimaging data acquired with tools like Magnetic Resonance Imaging (MRI), we aim to uncover mysteries of the brain and understand the cognitive mechanism. We offer solutions for the diagonisis of neurodegeneration and neurological disorders such as Alzheimer's disease (AD), autism spectrum disorder (ASD).
+We develop machine learning and artifical intelligence methods to address exciting challenges in Neuroscience. By analyzing neuroimaging data acquired with tools like Magnetic Resonance Imaging (MRI), we aim to uncover mysteries of the brain and understand the cognitive mechanism. We explore solutions for the diagonisis of neurodegeneration and neurological disorders such as Alzheimer's disease (AD), autism spectrum disorder (ASD).
 
 Research interests: machine learning, AI for healthcare, MRI, computational imaging, numerical optimization
 
