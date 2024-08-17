@@ -9,10 +9,10 @@ profile:
   image: shuai_sq.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><span style="font-size:0.82em;">Assistant Professor</span></p>
-    <p><span style="font-size:0.82em;">Electrical and Computer Engineering</span></p>
-    <p><span style="font-size:0.82em;">Neuroimaging Center</span></p>
-    <p><span style="font-size:0.82em;">Auburn University</span></p>
+    <p>Assistant Professor</p>
+    <p><nobr>Electrical and Computer Engineering</nobr></p>
+    <p>Neuroimaging Center</p>
+    <p>Auburn University</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
