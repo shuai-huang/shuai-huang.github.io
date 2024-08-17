@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Assistant Professor</p>
-    <p><span style="font-size:0.9em;">Electrical and Computer Engineering</span></p>
+    <p><span style="font-size:0.85em;">Electrical and Computer Engineering</span></p>
     <p>Neuroimaging Center</p>
     <p>Auburn University</p>
 
