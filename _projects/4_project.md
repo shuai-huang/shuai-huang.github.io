@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-## Cryo-electron Microscopy via the Method of Moments
+## Generalized Entropy Functions for Sparse Signal Recovery
 
 Minimizing the generalized entropy function encourages the concentration of energy towards a few significant entries in the solution. {% cite GEF_min %}.
 
