@@ -23,7 +23,7 @@ A bespoke Gaussian-mixture distribution is used to model the long-tailed noise d
 
 ## Bayesian R2* Mapping with Mono-Exponential Decay Model
 
-The mono-exponential decay model of MR signal is incorporated into a Bayesian approach to recover the R2* map via compressive sensing {% cite bayesian_r2star %}..
+The mono-exponential decay model of MR signal is incorporated into a Bayesian approach to recover the R2* map via compressive sensing {% cite Bayesian_r2star %}..
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
