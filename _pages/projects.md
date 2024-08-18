@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 4
 display_categories: [work]
-horizontal: false
+horizontal: true
 ---
 
 <span style="font-size:1em;">Reproducible code and data are available at <a href='https://github.com/shuai-huang' style="color:#EE6A54;" >Github</a>.</span>
