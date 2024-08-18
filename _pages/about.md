@@ -28,7 +28,7 @@ Welcome to the `Computational Neuroscience and Artificial Intelligence (CNAI)` L
 
 Research interests: machine learning, AI for healthcare, MRI, computational imaging, numerical optimization
 
-**CNAI lab is actively looking for highly motivated students. If you are interested, please feel free to contact me: shuai.huang@auburn.edu**
+<b><span style="color:#EE6A54;">CNAI lab is actively looking for highly motivated students. If you are interested, please feel free to contact me: shuai.huang@auburn.edu</span></b>
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
