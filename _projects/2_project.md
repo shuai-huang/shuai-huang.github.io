@@ -2,7 +2,7 @@
 layout: page
 title: Cryo-electron Microscopy
 description: 
-img: assets/project_figure/3d_uvt.png
+img: assets/img/project_figure/3d_uvt.png
 importance: 2
 category: work
 related_publications: true
