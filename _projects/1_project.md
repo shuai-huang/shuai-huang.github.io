@@ -1,13 +1,40 @@
 ---
 layout: page
-title: project 1
+title: Quantitative MRI
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/project_figure/bayesian_r2star.png
 importance: 1
 category: work
 related_publications: true
 ---
 
+## Robust Quantitative Susceptibility Mapping (QSM)
+
+A bespoke Gaussian-mixture distribution is used to model the long-tailed noise distribution in cases of brain hemorrhage and/or calcification in QSM {% cite robust_qsm %}..
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_figure/robust_qsm.png" style="width: 50%;" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Comparison of the recovered quantitative susceptibility maps using MEDI and the proposed AMP-PE approaches.
+</div>
+
+## Bayesian R2* Mapping with Mono-Exponential Decay Model
+
+The mono-exponential decay model of MR signal is incorporated into a Bayesian approach to recover the R2* map via compressive sensing {% cite bayesian_r2star %}..
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_figure/bayesian_r2star.png" style="width: 50%;" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Comparison of the recovered R2* maps using the conventional L1-norm minimization and the proposed AMP-PE approaches.
+</div>
+
+<!--
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -79,3 +106,5 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
+-->
