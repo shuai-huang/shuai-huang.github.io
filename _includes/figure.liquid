@@ -38,6 +38,9 @@
       {% else %}
         height="auto"
       {% endif %}
+      {% if include.center %}
+        style="margin:auto; display:block";
+      {% endif %}
       {% if include['min-width'] or include['min-height'] or include['max-width'] or include['max-height'] %}
         style="
           {% if include['min-width'] %}
@@ -45,9 +48,6 @@
           {% endif %}
           {% if include['min-height'] %}
             min-height: {{ include.min-height }};
-          {% endif %}
-          {% if include.center %}
-            margin:auto; display:block
           {% endif %}
           {% if include['max-width'] %}
             max-width: {{ include.max-width }};
