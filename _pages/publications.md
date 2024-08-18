@@ -12,6 +12,6 @@ A complete list of publications is available at <a href='https://scholar.google.
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography %}
 
 </div>
