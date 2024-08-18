@@ -22,7 +22,9 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to the `Computational Neuroscience and Artificial Intelligence (CNAI)` Lab!
 
-We develop machine learning and artifical intelligence methods to address exciting challenges in Neuroscience. By analyzing neuroimaging data acquired with tools like Magnetic Resonance Imaging (MRI), we aim to uncover mysteries of the brain and understand the cognitive mechanism. We explore solutions for the diagonisis of neurodegeneration and neurological disorders such as Alzheimer's disease (AD), autism spectrum disorder (ASD).
+- We develop machine learning and artifical intelligence methods to address exciting challenges in Neuroscience. 
+- By analyzing neuroimaging data acquired with tools like Magnetic Resonance Imaging (MRI), we aim to uncover mysteries of the brain and understand the cognitive mechanism. 
+- We explore solutions for the diagonisis of neurodegeneration and neurological disorders such as Alzheimer's disease (AD), autism spectrum disorder (ASD).
 
 Research interests: machine learning, AI for healthcare, MRI, computational imaging, numerical optimization
 
