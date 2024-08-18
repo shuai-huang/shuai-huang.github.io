@@ -28,6 +28,7 @@
       {% if include.class %}
         class="{{ include.class }}"
       {% endif %}
+      {% if include.center %}style="margin:auto; display:block"{% endif %}
       {% if include.width %}
         width="{{ include.width }}"
       {% else %}
@@ -37,9 +38,6 @@
         height="{{ include.height }}"
       {% else %}
         height="auto"
-      {% endif %}
-      {% if include.center %}
-        style="display:block; margin-left:auto; margin-right:auto"
       {% endif %}
       {% if include['min-width'] or include['min-height'] or include['max-width'] or include['max-height'] %}
         style="
