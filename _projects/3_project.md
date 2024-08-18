@@ -23,7 +23,7 @@ A basin of attraction exists around the global optimum of a nonconvex quadratic 
 
 ## 2. Reconstructing Point Sets from Distance Distributions
 
-A set of points on a line or a loop is reconstructed from their unlabelled pairwise distances via a nonconvex quadratic formulation {% uDGP_1D %}.
+A set of points on a line or a loop is reconstructed from their unlabelled pairwise distances via a nonconvex quadratic formulation {% cite uDGP_1D %}.
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
