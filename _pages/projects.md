@@ -9,7 +9,7 @@ display_categories: [work]
 horizontal: true
 ---
 
-<span style="font-size:1em;">Reproducible code and data are available at <a href='https://github.com/shuai-huang' style="color:#EE6A54;" >Github</a>.</span>
+<span style="font-size:1.5em;">Reproducible code and data are available at <a href='https://github.com/shuai-huang' style="color:#EE6A54;" >Github</a>.</span>
 
 <!-- pages/projects.md -->
 <div class="projects">
