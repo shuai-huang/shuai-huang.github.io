@@ -2,4 +2,4 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 I obtained my PhD in Electrical and Computer Engineering from the Johns Hopkins University, where I had been very fortunate to have [Dr. Trac D. Tran](https://engineering.jhu.edu/faculty/trac-duy-tran/) as my advisor. My PhD research focused on compressive sensing and Bayesian methods with applications in signal and image processing. During my postdoctoral training, I first worked on computational imaging and inverse problems in [Dr. Ivan Dokmanic&#x0301;](https://dmi.unibas.ch/de/personen/ivan-dokmanic/)'s group at the University of Illinois at Urbana-Champaign. I then moved on to investigating neurodegenerative diseases using magnetic resonance imaging in [Dr. Deqiang Qiu](https://randomprogram.net/index.html)'s group at Emory University.
 
-My research leverages machine learning and signal processing methods to address challenges in neuroimaging and neuroscience. I am fascinated by the ultimate quest to find order in data!
+My research addresses challenges in neuroimaging and neuroscience. I am fascinated by the ultimate quest to find order in data!
