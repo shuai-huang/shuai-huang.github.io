@@ -8,7 +8,7 @@ My research leverages machine learning and signal processing methods to address 
 
 
 
-## PhD Students
+---
 
 <hr class="my-5">
 <h2 id="students">Students</h2>
