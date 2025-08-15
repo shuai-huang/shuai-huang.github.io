@@ -13,11 +13,11 @@
             {% if site.middle_name %}
               {{- site.middle_name -}}
             {% endif %}
-            {% if site.last_name %}
+	    {% if site.last_name %}
               {{- site.last_name -}}
             {% endif %}
           {% else %}
-            {{- site.title -}}
+            {{- site.title_short -}}
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}

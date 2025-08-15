@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
+ELEC 7450: Digital Image Processing (Spring 2025), Auburn University
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+ELEC 3800: Random Signals & Systems (Fall 2024), Auburn University
 
-Organize your courses by years, topics, or universities, however you like!
+ECE 418: [Introduction to Image and Video Processing](https://courses.grainger.illinois.edu/ece418/sp2019/) (Spring 2019), University of Illinois at Urbana-Champaign

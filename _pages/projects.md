@@ -1,13 +1,15 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: 
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 4
+display_categories: [work]
+horizontal: true
 ---
+
+<span style="font-size:1.5em;">Reproducible code and data are available at <a href='https://github.com/shuai-huang' style="color:#EE6A54;" >Github</a>.</span>
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -22,7 +24,7 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
+    <div class="row row-cols-1 row-cols-md-1">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
