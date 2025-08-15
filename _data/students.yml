@@ -1,13 +1,13 @@
 # _data/students.yml
 - name: Zeyu Luo
   role: PhD Student, Aug. 2025 - Present
-  image: assets/img/people/zeyu_sq.jpg   # put the image in your repo
+  #image: assets/img/people/zeyu_sq.jpg   # put the image in your repo
   email: zel0010@auburn.edu
   website: https://hyperpolyx.github.io
 
 
 - name: Ruoyu Zhang
   role: PhD Student, Aug. 2025 - Present
-  image: assets/img/people/ruoyu_sq.jpg
+  #image: assets/img/people/ruoyu_sq.jpg
   email: ruz0002@auburn.edu
   website: https://git-zry.github.io/
