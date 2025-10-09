@@ -1,22 +1,6 @@
 <div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
-
-    {% comment %} Build curated list {% endcomment %}
-    {% assign items = site.news | where_exp: "n", "n.hidden != true" %}
-    {% assign featured = items | where: "featured", true %}
-    {% assign featured = featured | sort: "date" | reverse %}
-    {% assign featured = featured | sort: "priority" %}
-    {% assign rest = items | where_exp: "n", "n.featured != true" | sort: "date" | reverse %}
-    {% assign ordered = featured | concat: rest %}
-
-    {% comment %} Determine limit (preserves al-folio’s config knobs) {% endcomment %}
-    {% if include.limit and site.announcements.limit %}
-      {% assign news_limit = site.announcements.limit %}
-    {% else %}
-      {% assign news_limit = ordered | size %}
-    {% endif %}
-
     <div
       class="table-responsive"
       {% if include.limit and site.announcements.scrollable and news_size > 3 %}
@@ -24,7 +8,13 @@
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% for item in ordered limit: news_limit %}
+        {% assign news = site.news | sort: "date" | reverse %}
+        {% if include.limit and site.announcements.limit %}
+          {% assign news_limit = site.announcements.limit %}
+        {% else %}
+          {% assign news_limit = news_size %}
+        {% endif %}
+        {% for item in news limit: news_limit %}
           <tr>
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
             <td>
@@ -42,4 +32,3 @@
     <p>No news so far...</p>
   {% endif %}
 </div>
-
