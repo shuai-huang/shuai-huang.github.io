@@ -4,6 +4,8 @@ title:
 date: 2024-08-16 09:01:00-0000
 inline: true
 related_posts: false
+featured: true     # show/pin on homepage
+hidden: false      # set true to hide from homepage
 ---
 
 CNAI lab is actively looking for highly motivated students. If you are interested, please feel free to contact me: shuai.huang@auburn.edu
